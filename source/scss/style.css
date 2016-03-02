@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+.default {
+	background-color: white;
+	color: black;
+}
+
+.normal {
+	background-color: gray;
+	color: black;
+}
+
+.stylised {
+	background-color: black;
+	color: gray;
+}
